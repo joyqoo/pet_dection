@@ -15,5 +15,5 @@
 資料集影像檔：https://drive.google.com/file/d/1Uxde2Y0sC911iNO4oxjNMiWy2ymqsuCy/view?usp=sharing  
 資料集標註檔：https://drive.google.com/file/d/1JSNO4ovHb_jPUiqDSGq9CPZeAoIpLZys/view?usp=sharing 
 
-［圖示］（https://github.com/joyqoo/pet_dection_on_colab/blob/72296c0f09b44bed6959e38751440aa57f05b436/cover_picture.png）
+[圖示](https://github.com/joyqoo/pet_dection_on_colab/blob/72296c0f09b44bed6959e38751440aa57f05b436/cover_picture.png)
   
