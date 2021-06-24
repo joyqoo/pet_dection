@@ -10,10 +10,14 @@
 可以察覺寵物是否再進行異常的行動或行為，防止或降低寵物的破壞家中家具
 除此之外，也能在不在家的時候照護寵物，達到即時反應的功能。  
 
+## 🐶Keras YOLO Local使用說明
+1. 利用git colne 下載檔案或是直接下載zip 檔
+2. 可直接使用下方的訓練完權重檔進行推論 
+若須重新訓練及其他詳細說明可參考：[HackMD公開文檔](https://hackmd.io/LTaOjgeXQAutqN3GzwFoJQ?view)
 
 ## 🐶Colab使用說明
 1. 將影像檔及標註檔先下載到自己的雲端硬碟
-2. 影像檔及標註檔會解壓縮到Colab裡
+2. 影像檔及標註檔會解壓縮到Colab 裡
 3. 執行其他的cfg 檔案及Darknet 下載 
 4. 訓練模型權重會放置在雲端硬碟裡的 pet_dection_on_colab/weight
 5. 訓練完模型後即可測試結果
