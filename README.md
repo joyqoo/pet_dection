@@ -13,5 +13,5 @@
 ## 🐶權重檔及相關資料集  
 訓練完的權重檔：https://drive.google.com/file/d/13QQEtiDuASWu965kjZPpbMEx2Qb4C_Tk/view?usp=sharing  
 資料集影像檔：https://drive.google.com/file/d/1Uxde2Y0sC911iNO4oxjNMiWy2ymqsuCy/view?usp=sharing  
-衣料集標註檔：https://drive.google.com/file/d/1JSNO4ovHb_jPUiqDSGq9CPZeAoIpLZys/view?usp=sharing  
+資料集標註檔：https://drive.google.com/file/d/1JSNO4ovHb_jPUiqDSGq9CPZeAoIpLZys/view?usp=sharing  
   
