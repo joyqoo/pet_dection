@@ -33,7 +33,7 @@
 訓練完的權重檔：https://drive.google.com/file/d/13QQEtiDuASWu965kjZPpbMEx2Qb4C_Tk/view?usp=sharing  
 資料集影像檔：https://drive.google.com/file/d/1Uxde2Y0sC911iNO4oxjNMiWy2ymqsuCy/view?usp=sharing  
 資料集標註檔：https://drive.google.com/file/d/1JSNO4ovHb_jPUiqDSGq9CPZeAoIpLZys/view?usp=sharing 
-Colab 權重檔：https://drive.google.com/drive/folders/1-2t3lIH40xw0qpFT7QYov3JZm0YCV7sF?usp=sharing
-可供測試的影像：https://drive.google.com/drive/folders/1-y8iOXRzVLJz0Rulf--eWZOqAKBJZgEK?usp=sharing
+Colab 權重檔：https://drive.google.com/drive/folders/1-2t3lIH40xw0qpFT7QYov3JZm0YCV7sF?usp=sharing  
+可供測試的影像：https://drive.google.com/drive/folders/1-y8iOXRzVLJz0Rulf--eWZOqAKBJZgEK?usp=sharing  
 ![圖示](https://github.com/joyqoo/pet_dection_on_colab/blob/72296c0f09b44bed6959e38751440aa57f05b436/cover_picture.png)
   
