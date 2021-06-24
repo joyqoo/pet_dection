@@ -18,9 +18,10 @@
 ## 🐶Colab 訓練使用說明
 1. 將影像檔及標註檔先下載到雲端硬碟的根目錄
 2. 下載[可供測試的影像](https://drive.google.com/drive/folders/1-y8iOXRzVLJz0Rulf--eWZOqAKBJZgEK?usp=sharing)放置在根目錄/to_detect_images
-3. 下載pet_dection.ipynb 在Colab 執行
-4. 訓練模型權重會放置在雲端硬碟裡的 pet_dection_on_colab/weight
-5. 訓練完模型後即可測試結果
+3. 下載[Colab cfg](https://drive.google.com/drive/folders/1-6tXTBrbS2JGhfDWvibyo7m4Yo074QqA?usp=sharing)放置在/content/drive/MyDrive/pet_dection_on_colab/cfg/yolov3.cfg
+4. 下載pet_dection.ipynb 在Colab 執行
+5. 訓練模型權重會放置在雲端硬碟裡的 pet_dection_on_colab/weight
+6. 訓練完模型後即可測試結果
 
 ## 🐶Colab 推論使用說明
 1. 下載pet_dection_for_test.ipynb
