@@ -27,7 +27,7 @@
 1. 下載pet_dection_for_test.ipynb
 2. 下載[可供測試的影像](https://drive.google.com/drive/folders/1-y8iOXRzVLJz0Rulf--eWZOqAKBJZgEK?usp=sharing)放置在根目錄 **/to_detect_images**
 3. 下載[Colab 權重檔](https://drive.google.com/drive/folders/1-2t3lIH40xw0qpFT7QYov3JZm0YCV7sF?usp=sharing)放置在 **/content/drive/MyDrive/pet_dection_on_colab/weights/yolov3_last.weights**
-4. 下載[Colab cfg](https://drive.google.com/drive/folders/1-6tXTBrbS2JGhfDWvibyo7m4Yo074QqA?usp=sharing)放置在 **/content/drive/MyDrive/pet_dection_on_colab/cfg/yolov3.cfg**
+4. 下載[Colab cfgc和obj.names](https://drive.google.com/drive/folders/1-6tXTBrbS2JGhfDWvibyo7m4Yo074QqA?usp=sharing)放置在 **/content/drive/MyDrive/pet_dection_on_colab/cfg**
 5. 按下全部執行後可看到在to_detect_images 下的圖像推論結果
 
 ## 🐶權重檔及相關資料集  
